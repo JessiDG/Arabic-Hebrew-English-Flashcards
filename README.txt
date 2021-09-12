@@ -1,8 +1,6 @@
 # README for Flash Card #
 
-This is the README file for the Flash Card app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+Here's a nicely formatted version: https://studio.code.org/projects/applab/TP1h5gy65i5_4BBL1wT68cOWsQ3otCVtK4f3Y_AfJDo
 
 The files in this folder contain everything you need to run your app:
 
